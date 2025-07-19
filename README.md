@@ -1,4 +1,7 @@
 # RAG-Based Document & Product Analysis
+
+https://github.com/user-attachments/assets/1ad6e09a-2fb4-408e-8c2a-b42287ebc168
+
 ## Table of Contents
 Introduction
 
