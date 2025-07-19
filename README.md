@@ -1,5 +1,5 @@
-RAG-Based Document & Product Analysis
-Table of Contents
+# RAG-Based Document & Product Analysis
+## Table of Contents
 Introduction
 
 Key Features
@@ -118,7 +118,7 @@ Python 3.9+
 A Google Gemini API Key (obtainable from Google AI Studio or Google Cloud).
 
 Cloning the Repository
-git clone https://github.com/rajahassan38201/rag-based-document-&Any-Website-product-analysis.git #
+git clone https://github.com/rajahassan38201/Chat-with-Any-Website-or-PDF-And-Compare-Products-Using-LangChain.git #
 
 cd rag-based-document-product-analysis
 
